@@ -1,0 +1,16 @@
+/* Navbar.css */
+.navbar-custom .navbar-brand {
+  font-weight: 700;       /* negrita */
+  font-style: italic;     /* cursiva */
+  font-size: 1.8rem;      
+  color: #ffffff !important; /* letras blancas */
+}
+
+.navbar-custom .nav-link {
+  font-weight: 500;       /* semi-negrita */
+  color: #ffffff !important; /* letras blancas */
+}
+
+.navbar-custom .nav-link:hover {
+  color: #ffd700 !important; /* dorado al pasar el mouse */
+}
